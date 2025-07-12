@@ -3,10 +3,10 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "ソフトウェア工学92025"
+title: "ソフトウェア工学2025"
 ---
 # ソフトウェア工学2025
 
 git/github演習
-
+[ソフトウェア工学第7回 まとめ](software7)
 [softwareEng Lecture Notes](softwareEng2025.md)
