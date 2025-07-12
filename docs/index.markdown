@@ -18,3 +18,9 @@ git/github演習
 [ソフトウェア工学第9回　まとめ](software9.md)
 
 [ソフトウェア工学第10回　まとめ](software10.md)
+
+[ソフトウェア工学第11回　まとめ](software11.md)
+
+[ソフトウェア工学第12回　まとめ](software12.md)
+
+[ソフトウェア工学第13回　まとめ](software13.md)
