@@ -8,5 +8,5 @@ title: "ソフトウェア工学2025"
 # ソフトウェア工学2025
 
 git/github演習
-[ソフトウェア工学第7回 まとめ](software7)
+[ソフトウェア工学第7回 まとめ](software7.md)
 [softwareEng Lecture Notes](softwareEng2025.md)
