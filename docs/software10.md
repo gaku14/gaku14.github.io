@@ -1,1 +1,1 @@
-この回では、インタラクティブな教材「Learning Git Branching」を用いて、gitやGitHubの具体的な使い方を体験的に学習した。git commitやgit mergeといった基本的なコマンド操作を実際に手を動かしながら学習した。
+　この回では、インタラクティブな教材「Learning Git Branching」を用いて、gitやGitHubの具体的な使い方を体験的に学習した。git commitやgit mergeといった基本的なコマンド操作を実際に手を動かしながら学習した。
