@@ -9,6 +9,12 @@ title: "ソフトウェア工学2025"
 
 git/github演習
 
-[ソフトウェア工学第7回 まとめ](software7.md)
+[ソフトウェア工学第1回~第6回　まとめ](softwareEng2025.md)
 
-[softwareEng Lecture Notes](softwareEng2025.md)
+[ソフトウェア工学第7回　まとめ](software7.md)
+
+[ソフトウェア工学第8回　まとめ](software8.md)
+
+[ソフトウェア工学第9回　まとめ](software9.md)
+
+[ソフトウェア工学第10回　まとめ](software10.md)
