@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: "ソフトウェア2工学2025"
+title: "ソフトウェア工学2025"
 ---
 # ソフトウェア工学2025
 
